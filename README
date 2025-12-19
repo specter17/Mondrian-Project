@@ -2,8 +2,6 @@
 
 A pixel-perfect recreation of Piet Mondrian's "Composition with Red, Blue and Yellow." This project was built to practice and demonstrate my mastery of modern CSS layout techniques after recently learning HTML and CSS.
 
-## 📸 Preview
-![Mondrian Project Screenshot](./Mondrian-SS.png)
 
 ## 🛠️ Technical Skills Applied
 * **HTML5**: Structured the canvas with semantic and organized div elements.
