@@ -1,0 +1,22 @@
+# Mondrian Art Project 🎨
+
+A pixel-perfect recreation of Piet Mondrian's "Composition with Red, Blue and Yellow." This project was built to practice and demonstrate my mastery of modern CSS layout techniques after recently learning HTML and CSS.
+
+## 📸 Preview
+![Mondrian Project Screenshot](./Mondrian-SS.png)
+
+## 🛠️ Technical Skills Applied
+* **HTML5**: Structured the canvas with semantic and organized div elements.
+* **CSS Flexbox**: Used to handle the global layout and ensure the artwork is perfectly centered in the viewport.
+* **CSS Grid**: 
+    * Created a complex 4x4 grid container.
+    * Used `grid-template-columns` and `grid-template-rows` for specific sizing.
+    * Implemented `grid-column: span` and `grid-row: span` for the large color blocks.
+* **Design Accuracy**: Implemented the specific De Stijl color palette and utilized the `gap` property for the signature black grid lines.
+
+## 🔗 Project Links
+* **GitHub Repository**: [Your Link Here]
+* **Live Demo**: [Your Link Here]
+
+---
+Built with passion while learning Full Stack Development. 🚀  
